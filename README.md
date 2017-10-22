@@ -19,7 +19,7 @@ The objective is that the students experiment with setting up a continuous integ
 
 ## Assignment
 ### 1. Setup Travis CI for a repo
-1. Fork the calcApi repository: [github.com/arnlaugsson/stringCalcWeb](https://github.com/arnlaugsson/stringCalcWeb)
+1. Fork the calcApi repository: [github.com/Miscon/stringCalcWeb](https://github.com/Miscon/stringCalcWeb)
     * Note: since this is a public repo, you can't fork is as a private repo (directly at least).
 2. Go to [Travis-ci.org](https://travis-ci.org/)
     1. Sign in with GitHub
