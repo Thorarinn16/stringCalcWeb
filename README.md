@@ -4,8 +4,7 @@ Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 ## This repo
 Status: [![Build Status](https://travis-ci.org/Thorarinn16/stringCalcWeb.png)](https://travis-ci.org/Thorarinn16/stringCalcWeb)
 
-Is a very simple Spark Web application, built with Gradle blabla. 
-
+Is a very simple Spark Web application, built with Gradle blablablablabla.
 * To run `gradle run`
 * To create a deployable package:
     * `gradle installDist`
